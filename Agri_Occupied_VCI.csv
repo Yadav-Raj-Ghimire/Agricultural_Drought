@@ -1,0 +1,19 @@
+years,Category,Extreme_Drought(Sq. Km),Severe_Drought(Sq. Km),Moderate_Drought(Sq. Km),Mild_Drought(Sq. Km),No_Drought (Sq. Km)
+2001,Agricultural_Land,1620.47,2183.44,1057.97,511.59,116.19
+2002,Agricultural_Land,286.19,1902.98,1639.39,1036.85,521.49
+2003,Agricultural_Land,87.61,912.02,1504.62,1510.2,1196.95
+2004,Agricultural_Land,262.94,1858.51,1610.88,1001.66,338.01
+2005,Agricultural_Land,110.25,1015.19,1451.51,1350.87,1039.95
+2006,Agricultural_Land,313.15,1741.06,1405.61,991.76,477.83
+2007,Agricultural_Land,25.57,550.69,1183.18,1460.32,1707.64
+2008,Agricultural_Land,62.5,1118.68,1689.74,1363.02,694.16
+2009,Agricultural_Land,668.79,2381.87,1263.9,528.95,84.89
+2010,Agricultural_Land,208.43,1495.44,1633.78,1129.54,479.21
+2011,Agricultural_Land,137.34,1125.79,1610.68,1401.42,711.03
+2013,Agricultural_Land,58.63,907.3,1586.77,1515,966.61
+2014,Agricultural_Land,27.71,735.13,1602.18,1616.21,1018.6
+2015,Agricultural_Land,9.27,251.77,841.02,1523.91,2302.13
+2016,Agricultural_Land,184.73,1153.75,1514.05,1286.92,699.15
+2017,Agricultural_Land,6.99,243.07,810.9,1480.36,2169.36
+2018,Agricultural_Land,255.38,872.68,1318.3,1355.09,794.64
+2019,Agricultural_Land,42.83,369.56,848.24,1374.15,1854.93
